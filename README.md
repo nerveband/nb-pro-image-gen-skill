@@ -5,6 +5,8 @@ A comprehensive, AI-friendly toolkit for professional image generation using Goo
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Made by [Ashraf Ali](https://ashrafali.net)
+
 ## ✨ Features
 
 - **🎨 Multi-Mode Generation**: Text-to-image, image editing, and multi-image composition
@@ -22,7 +24,7 @@ A comprehensive, AI-friendly toolkit for professional image generation using Goo
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nb-pro-image-gen-skill.git
+git clone https://github.com/nerveband/nb-pro-image-gen-skill.git
 cd nb-pro-image-gen-skill
 
 # Set your API key
@@ -404,8 +406,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- Create an [issue](https://github.com/YOUR_USERNAME/nb-pro-image-gen-skill/issues) for bug reports
-- Start a [discussion](https://github.com/YOUR_USERNAME/nb-pro-image-gen-skill/discussions) for questions
+- Create an [issue](https://github.com/nerveband/nb-pro-image-gen-skill/issues) for bug reports
+- Start a [discussion](https://github.com/nerveband/nb-pro-image-gen-skill/discussions) for questions
 
 ---
 
